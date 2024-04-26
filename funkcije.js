@@ -16,8 +16,9 @@ function pronadjiNajduzuRijec(niz) {
 var najduzaRijec = pronadjiNajduzuRijec(myNiz);
 
 console.log(najduzaRijec);
-*/
-/*
+
+
+
 function getMax(a, b) {
     let retVal = 0;
     if (a > b) {
@@ -33,7 +34,9 @@ function getMax(a, b) {
 }
 
 console.log(getMax(1, 2));
-*/
+
+
+
 
 function zbroji(a, b) {
     if(typeof a !== "number" && typeof b !== "number"){
@@ -43,3 +46,7 @@ function zbroji(a, b) {
 }
 
 console.log(zbroji("1", 2));
+*/
+
+
+
